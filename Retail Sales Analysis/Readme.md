@@ -74,6 +74,21 @@ Includes:
 - Count of transactions by gender within each product category  
 
 ---
+### 🧾 **Business Insights Summary**
+
+**Customer Demographics:**  
+The dataset includes customers from various age groups, with sales distributed across multiple categories such as **Clothing** and **Beauty**.
+
+**High-Value Transactions:**  
+Several transactions recorded a total sale amount greater than **1000**, indicating the presence of premium purchases.
+
+**Sales Trends:**  
+Monthly sales analysis revealed clear variations across months, helping identify **peak sales seasons** and demand fluctuations.
+
+**Customer Insights:**  
+Top-spending customers were identified, along with the **most popular product categories**, providing valuable input for targeted marketing and inventory planning.
+
+---
 
 ### 💡 **Key Learnings**
 - SQL data cleaning and integrity checks  
