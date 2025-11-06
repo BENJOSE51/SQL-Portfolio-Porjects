@@ -20,6 +20,10 @@ The main business goal is to help identify:
 
 ### 🗂️ **Project File**
 📄 `Mentor Performance Analysis.sql`  
+---
+
+### 🧱 **Database Schema**
+**Table:** `user_submissions`  
 
 Includes:  
 - Table creation and data loading  
